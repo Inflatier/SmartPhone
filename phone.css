@@ -27,7 +27,7 @@ body {
 
 @media screen and (min-device-width: 480px) {
     #phone {
-        width: 300px;
+        width: 290px;
         height: 600px;
         margin: auto;
         position: absolute;
